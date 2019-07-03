@@ -1,5 +1,5 @@
 v=int(input())
-f=1
+a=1
 for k in range(1,v+1):
- f=f*k
-print(f)
+ a=a*k
+print(a)
